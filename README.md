@@ -28,5 +28,42 @@ hybird mix of new AND and old?
 open hybird cloud
 open bybird cloud starts with open source
 
+https://www.redhat.com/en/technologies/management/insights
+
+## speed
+automation is the key
+
+Developer required tools and infra
+self service for developer
+openshift provide the all needs for developer can sucess
+
+## stability
+- Technology with governance, compliance
+- IT productivity
+- security  vulnerabilities 
+- human error
+- inconsistent  systema and config
+- Automation is the key
+- interduce  dev secops
+
+## Scale
+- sesrver customer demand
+- derive topline renvenue
+- take davanage of market
+- too many sytems to manage
+
+
+## Scale with policy driven deployment in kubernetes
+- Microchip
+
+
+## consumpation model
+ - self managed
+ - as a servive 
+ - 
+
+- 
+
+
 
  

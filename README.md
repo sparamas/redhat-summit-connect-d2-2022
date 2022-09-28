@@ -66,4 +66,26 @@ openshift provide the all needs for developer can sucess
 
 
 
+```
+To Access VScode UI via browser:
+URL: https://bastion.g7rzr.sandbox545.opentlc.com
+Password: Ejv5pfN2NNQn
+
+To Access Lab Instructions:
+URL: https://ansible-labs-crew.gitlab.io/ansible-controller-advanced
+
+To Access Ansible controller UI via browser:
+URL: https://autoctl1.g7rzr.sandbox545.opentlc.com
+Username: admin
+Admin Password: Ejv5pfN2NNQn
+To Access Private Automation Hub UI via browser:
+URL: https://pah.g7rzr.sandbox545.opentlc.com
+Username: admin
+Admin Password: Ejv5pfN2NNQn
+To Access Control node via SSH:
+ssh lab-user@bastion.g7rzr.sandbox545.opentlc.com
+Enter ssh password when prompted: Ejv5pfN2NNQn
+```
+
+
  

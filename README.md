@@ -87,5 +87,29 @@ ssh lab-user@bastion.g7rzr.sandbox545.opentlc.com
 Enter ssh password when prompted: Ejv5pfN2NNQn
 ```
 
+# Cloud Service 
+- an application platform
+-  73.5 tech leadrs are outsourcing ine imple and main, optimaztion of thir cloud platforns
+-  pladtform service
+-  building your own planforn with standlone kube
+-  deploy applications 3x faster
+-  reduce opettion cost by 60% 25X new depleoyment  per week
+-  curated set of integrated services that complement the platform
+-  redhat openshift api managment
+-  redhat openshift application services roadmanp summary
+-  stages of modern intellignet application dev
+-  needed a a new database access model
+-  application platform
+-  
+-  
+## cloud service demo
+https://bookbag-bookbag-user1.apps.cluster-bph7g.bph7g.sandbox1931.opentlc.com/workshop/workshop-introduction
+
+
+
+
+
+
+
 
  

@@ -2,9 +2,13 @@
 
 ## WELCOME MESSAGE & LIVE DEMO
 
+Day was started with keysnote speakers and shared the learend the Red Hat techologies and tools.
+
 Green Enery demo
 
 demo, redhar product nad solve the problem
+
+
 
 
  

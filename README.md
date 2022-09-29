@@ -105,6 +105,7 @@ Enter ssh password when prompted: Ejv5pfN2NNQn
 ## cloud service demo
 https://bookbag-bookbag-user1.apps.cluster-bph7g.bph7g.sandbox1931.opentlc.com/workshop/workshop-introduction
 
+https://docs.google.com/document/d/1v62nyuSK0TNxQlxlzTtQyE1KTlFqhYDINJtu3z8v3JQ/edit
 
 
 

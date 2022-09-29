@@ -2,22 +2,11 @@
 
 ## WELCOME MESSAGE & LIVE DEMO
 
-Day was started with keysnote speakers and shared the learend the Red Hat techologies and tools.
-![IMG_7642](https://user-images.githubusercontent.com/13231217/193119405-77cee52f-d063-41cf-aa1d-d819fbbf80e0.jpg)
-
 ### Quinoa WindTurbine Racer Demo
-
-
-### Code and steps to setup 
-- https://github.com/redhat-developer-demos/quinoa-wind-turbine
 
 
 demo, redhar product nad solve the problem
 
-
-
-
- 
  ## Achitecture an open hybird cloud
  - What is the  ideal achitecuter
  how did we get to where we are today?
@@ -117,8 +106,6 @@ https://bookbag-bookbag-user1.apps.cluster-bph7g.bph7g.sandbox1931.opentlc.com/w
 
 https://docs.google.com/document/d/1v62nyuSK0TNxQlxlzTtQyE1KTlFqhYDINJtu3z8v3JQ/edit
 
-
-## photos
 
 
 
